@@ -6,7 +6,6 @@
 "category": "Teaching",
 "depends": ["base"],
 "data": [
-2
 "views/biblioteca_libro_views.xml",
 ],
 "installable": True,
